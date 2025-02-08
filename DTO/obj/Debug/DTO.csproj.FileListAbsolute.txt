@@ -1,0 +1,7 @@
+D:\TÀI LIỆU HỌC FPT\TÀI LIỆU CHUYÊN NGÀNH\KỲ 8\SOF2051_Du an mau(.NET)\TB00624_SOF2051\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\TÀI LIỆU HỌC FPT\TÀI LIỆU CHUYÊN NGÀNH\KỲ 8\SOF2051_Du an mau(.NET)\TB00624_SOF2051\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\TÀI LIỆU HỌC FPT\TÀI LIỆU CHUYÊN NGÀNH\KỲ 8\SOF2051_Du an mau(.NET)\TB00624_SOF2051\DTO\bin\Debug\DTO.dll.config
+D:\TÀI LIỆU HỌC FPT\TÀI LIỆU CHUYÊN NGÀNH\KỲ 8\SOF2051_Du an mau(.NET)\TB00624_SOF2051\DTO\bin\Debug\DTO.dll
+D:\TÀI LIỆU HỌC FPT\TÀI LIỆU CHUYÊN NGÀNH\KỲ 8\SOF2051_Du an mau(.NET)\TB00624_SOF2051\DTO\bin\Debug\DTO.pdb
+D:\TÀI LIỆU HỌC FPT\TÀI LIỆU CHUYÊN NGÀNH\KỲ 8\SOF2051_Du an mau(.NET)\TB00624_SOF2051\DTO\obj\Debug\DTO.dll
+D:\TÀI LIỆU HỌC FPT\TÀI LIỆU CHUYÊN NGÀNH\KỲ 8\SOF2051_Du an mau(.NET)\TB00624_SOF2051\DTO\obj\Debug\DTO.pdb
